@@ -267,7 +267,7 @@ void PrintHeadOfChoice()
 { 
 cout<<left<<"======================================="; 
 cout<<setw(15)<<left<<" Main menu screen "; 
-cout<<left<<"======================================="; 
+cout<<left<<"=======================================" << endl; 
 cout<<setw(20)<<left<<"[1] Show Clients list "<<endl; 
 cout<<setw(20)<<left<<"[2] Add New Clients "<<endl; 
 cout<<setw(20)<<left<<"[3] Delete Clients "<<endl; 
